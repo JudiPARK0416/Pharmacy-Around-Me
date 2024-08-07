@@ -1,4 +1,4 @@
-##  &특*수%기@호$ 의 우리동네약국지도
+##  Pharmacy Around Me
 
 ### 서울에서 운영중인 약국, 심야 약국 휴일 영업 약국을 쉽게 찾아보세요
 <img width="1909" alt="image" src="https://user-images.githubusercontent.com/116015708/234590357-139aeab9-a082-45c3-8d02-8c42dac2c9a7.png">
